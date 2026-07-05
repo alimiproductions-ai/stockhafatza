@@ -115,63 +115,63 @@ const SEED_PRODUCTS = [
   { titre: "Zimrat Haaretz", langue: "HE", source: "haesh-sheli.co.il", prixCoutant: 35, devise: "ILS", photo: "" },
   { titre: "Likouté Moharan - grandes lettres", langue: "HE", source: "haesh-sheli.co.il", prixCoutant: 35, devise: "ILS", photo: "" },
   { titre: "Zémirot Chabbat Breslev", langue: "HE", source: "haesh-sheli.co.il", prixCoutant: 35, devise: "ILS", photo: "" },
-// --- breslever.com / Catalogue Breslev 2025 — prix coûtants en EUR ---
+// --- breslever.com / Catalogue Breslev 2025 — prix coûtants en ILS ---
 
-{ titre: "Des Mots qui Guérissent - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-DES-MOTS-QUI-GUERISSENT-MD.png" },
-{ titre: "Des Mots qui Guérissent - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-DES-MOTS-QUI-GUERISSENT-MD.png" },
+{ titre: "Des Mots qui Guérissent - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-DES-MOTS-QUI-GUERISSENT-MD.png" },
+{ titre: "Des Mots qui Guérissent - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-DES-MOTS-QUI-GUERISSENT-MD.png" },
 
-{ titre: "Vers la Terre Sainte - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/vers-la-terre-sainte-face-150-crop-u297325_2x.png" },
-{ titre: "Vers la Terre Sainte - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/vers-la-terre-sainte-face-150-crop-u297325_2x.png" },
+{ titre: "Vers la Terre Sainte - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/vers-la-terre-sainte-face-150-crop-u297325_2x.png" },
+{ titre: "Vers la Terre Sainte - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/vers-la-terre-sainte-face-150-crop-u297325_2x.png" },
 
-{ titre: "L'Alphabet Lumineux - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/alphabet-lumineux-face-150c_2x.png" },
-{ titre: "L'Alphabet Lumineux - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/alphabet-lumineux-face-150c_2x.png" },
+{ titre: "L'Alphabet Lumineux - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/alphabet-lumineux-face-150c_2x.png" },
+{ titre: "L'Alphabet Lumineux - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/alphabet-lumineux-face-150c_2x.png" },
 
-{ titre: "Les Ailes du Cœur - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/les-ailes-face-150-u111643_2x.png" },
-{ titre: "Les Ailes du Cœur - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/les-ailes-face-150-u111643_2x.png" },
+{ titre: "Les Ailes du Cœur - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/les-ailes-face-150-u111643_2x.png" },
+{ titre: "Les Ailes du Cœur - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/les-ailes-face-150-u111643_2x.png" },
 
-{ titre: "Le Solfège de l'Âme & Régénération - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-SOLFEGE-DE-LAME-MD.png" },
-{ titre: "Le Solfège de l'Âme & Régénération - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-SOLFEGE-DE-LAME-MD.png" },
+{ titre: "Le Solfège de l'Âme & Régénération - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-SOLFEGE-DE-LAME-MD.png" },
+{ titre: "Le Solfège de l'Âme & Régénération - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-SOLFEGE-DE-LAME-MD.png" },
 
-{ titre: "Contes & Merveilles - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/contes-face-150-u111592_2x.png" },
-{ titre: "Contes & Merveilles - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/contes-face-150-u111592_2x.png" },
+{ titre: "Contes & Merveilles - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/contes-face-150-u111592_2x.png" },
+{ titre: "Contes & Merveilles - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/contes-face-150-u111592_2x.png" },
 
-{ titre: "Lettres à un ami - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/letrres-a-un-ami-face-150-u297356_2x.png" },
+{ titre: "Lettres à un ami - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/letrres-a-un-ami-face-150-u297356_2x.png" },
 
-{ titre: "Les Conseils - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2025/09/CONSEILS-attente-2025.png" },
-{ titre: "Les Conseils - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2025/09/CONSEILS-attente-2025.png" },
+{ titre: "Les Conseils - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2025/09/CONSEILS-attente-2025.png" },
+{ titre: "Les Conseils - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2025/09/CONSEILS-attente-2025.png" },
 
-{ titre: "Les Chemins de Lumière - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2025/11/LIVRE-LES-CHEMINS.png" },
-{ titre: "Les Chemins de Lumière - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 8, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2025/11/LIVRE-LES-CHEMINS.png" },
+{ titre: "Les Chemins de Lumière - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2025/11/LIVRE-LES-CHEMINS.png" },
+{ titre: "Les Chemins de Lumière - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 32, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2025/11/LIVRE-LES-CHEMINS.png" },
 
-{ titre: "Les Sources du Salut - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 12, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/les-sources-du-saluts-face-150-crop-u297365_2x.png" },
+{ titre: "Les Sources du Salut - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 48, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/les-sources-du-saluts-face-150-crop-u297365_2x.png" },
 
-{ titre: "Le Tikoune Haklali - Petit format", langue: "FR", source: "breslever.com", prixCoutant: 1, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/tikoune-face-125_2x.png" },
-{ titre: "Le Tikoune Haklali - Format moyen", langue: "FR", source: "breslever.com", prixCoutant: 1.5, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/tikoune-face-125_2x.png" },
-{ titre: "Le Tikoune Haklali - Grand format", langue: "FR", source: "breslever.com", prixCoutant: 2.5, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2023/11/tikoune-face-125_2x.png" },
+{ titre: "Le Tikoune Haklali - Petit format", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/tikoune-face-125_2x.png" },
+{ titre: "Le Tikoune Haklali - Format moyen", langue: "FR", source: "breslever.com", prixCoutant: 6, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/tikoune-face-125_2x.png" },
+{ titre: "Le Tikoune Haklali - Grand format", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2023/11/tikoune-face-125_2x.png" },
 
-{ titre: "Le Tikoune Haklali et Réparation de Minuit - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 6, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-TIKOUNE-HAKLALI-HATSOTH.png" },
-{ titre: "Le Tikoune Haklali et Réparation de Minuit - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-TIKOUNE-HAKLALI-HATSOTH.png" },
+{ titre: "Le Tikoune Haklali et Réparation de Minuit - Couverture rigide", langue: "FR", source: "breslever.com", prixCoutant: 24, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-TIKOUNE-HAKLALI-HATSOTH.png" },
+{ titre: "Le Tikoune Haklali et Réparation de Minuit - Couverture souple", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-TIKOUNE-HAKLALI-HATSOTH.png" },
 
-{ titre: "Les Noms des Justes", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-SERIE-MOU-FACE-MD.png" },
+{ titre: "Les Noms des Justes", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2024/12/LIVRE-SERIE-MOU-FACE-MD.png" },
 
-{ titre: "Coffret Essentiel", langue: "FR", source: "breslever.com", prixCoutant: 50, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-COFFRET-ESSENTIEL-BD.jpg" },
-{ titre: "Coffret Collection Breslev - 11 livres", langue: "FR", source: "breslever.com", prixCoutant: 80, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-GRAND-COFFRET-BD.jpg" },
+{ titre: "Coffret Essentiel", langue: "FR", source: "breslever.com", prixCoutant: 200, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-COFFRET-ESSENTIEL-BD.jpg" },
+{ titre: "Coffret Collection Breslev - 11 livres", langue: "FR", source: "breslever.com", prixCoutant: 300, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-GRAND-COFFRET-BD.jpg" },
 
 // Non trouvé exactement dans le catalogue 2025 sous ce nom
-{ titre: "Coffret II (5 œuvres de Rabbi Nathan)", langue: "FR", source: "breslever.com", prixCoutant: 0, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-COFFRET-2-BD.jpg" },
+{ titre: "Coffret II (5 œuvres de Rabbi Nathan)", langue: "FR", source: "breslever.com", prixCoutant: 0, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-COFFRET-2-BD.jpg" },
 
-{ titre: "L'Arbre de Vie", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-ABRE-DE-VIE-BD.jpg" },
-{ titre: "Vive la Vie !", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-VIVE-LA-VIE-BD.jpg" },
-{ titre: "En Chemin - Vers l'Éveil", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-EN-CHEMIN-BD.jpg" },
+{ titre: "L'Arbre de Vie", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-ABRE-DE-VIE-BD.jpg" },
+{ titre: "Vive la Vie !", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-VIVE-LA-VIE-BD.jpg" },
+{ titre: "En Chemin - Vers l'Éveil", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-EN-CHEMIN-BD.jpg" },
 
-{ titre: "Courage ! / Renouveau / Bonheur & Joie - Tome 1", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-TOME-I-BD.jpg" },
-{ titre: "La Porte du Ciel / Il est Temps de Chanter / Le Chant Nouveau - Tome 2", langue: "FR", source: "breslever.com", prixCoutant: 10, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-TOME-II-BD.jpg" },
+{ titre: "Courage ! / Renouveau / Bonheur & Joie - Tome 1", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-TOME-I-BD.jpg" },
+{ titre: "La Porte du Ciel / Il est Temps de Chanter / Le Chant Nouveau - Tome 2", langue: "FR", source: "breslever.com", prixCoutant: 40, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-TOME-II-BD.jpg" },
 
-{ titre: "La Porte du Ciel - Hitbodédouth", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-LA-PORTE-DU-CIEL-BD.jpg" },
-{ titre: "Courage ! - Le désespoir n'existe pas", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-COURAGE-BD.jpg" },
-{ titre: "Bonheur & Joie - Dans la Torah", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-BONHEUR-BD.jpg" },
-{ titre: "Ouman", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-OUMAN-BD.jpg" },
-{ titre: "Il est Temps de Chanter (sur les Psaumes)", langue: "FR", source: "breslever.com", prixCoutant: 4, devise: "EUR", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-IL-EST-TEMPS-BD.jpg" },
+{ titre: "La Porte du Ciel - Hitbodédouth", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-LA-PORTE-DU-CIEL-BD.jpg" },
+{ titre: "Courage ! - Le désespoir n'existe pas", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-COURAGE-BD.jpg" },
+{ titre: "Bonheur & Joie - Dans la Torah", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-BONHEUR-BD.jpg" },
+{ titre: "Ouman", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-OUMAN-BD.jpg" },
+{ titre: "Il est Temps de Chanter (sur les Psaumes)", langue: "FR", source: "breslever.com", prixCoutant: 16, devise: "ILS", photo: "https://breslever.com/wp-content/uploads/2026/03/LIVRE-MINI-IL-EST-TEMPS-BD.jpg" },
   // --- tikoun-aolam.com ---
   { titre: "Téhilim de Rabénou Hébreu-Phonétique - Format Moyen", langue: "HE", source: "tikoun-aolam.com", prixCoutant: 120, devise: "ILS", photo: "https://tikoun-aolam.com/wp-content/uploads/2026/03/Tehilim-Phonetique-Double-1.jpg" },
   { titre: "Likouté Halakhot - Ora'h 'Haim 2 (Grand Format)", langue: "FR", source: "tikoun-aolam.com", prixCoutant: 200, devise: "ILS", photo: "https://tikoun-aolam.com/wp-content/uploads/2026/03/LH-Orah-Haim-2-Double-1.jpg" },

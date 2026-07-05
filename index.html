@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover" />
+    <title>Hafatza — Diffusion des livres de Rabbi Nahman</title>
+
+    <!-- PWA / installation sur écran d'accueil (iOS + Android) -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#4338ca" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Hafatza" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <link rel="icon" href="/icon-192.png" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body { padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); -webkit-tap-highlight-color: transparent; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
